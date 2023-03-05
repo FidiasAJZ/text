@@ -1,0 +1,8 @@
+.resize{
+    background-color: #2c2a2a;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    overflow: auto;
+    resize: both;
+}
